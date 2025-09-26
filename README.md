@@ -1,6 +1,6 @@
 ---
 ## Double-Linked-List Using C++
-### You have all Control in Your List ==> Insert-Update-Delete-Display Just Run The program
+### You have all Control in Your List ==> Insert-Update-Delete-Display Just Run The Program
 ---
 ``` C++
 #include <iostream>
